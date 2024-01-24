@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "project-2.2",
+=======
+  "name": "project-2.1",
+>>>>>>> project2.1/master
   "version": "0.1.0",
   "private": true,
   "scripts": {
